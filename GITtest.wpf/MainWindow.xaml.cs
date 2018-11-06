@@ -22,7 +22,7 @@ namespace GITtest.wpf
     {
         public MainWindow()
         {
-            // Versie 1.0
+            // Versie 2.0
             InitializeComponent();
         }
     }
